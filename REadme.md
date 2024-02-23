@@ -26,7 +26,7 @@ Welcome to our QR Code Scanner app built with React Native and Expo! This app al
 </table>
 
 ### Video
-[Watch Video](https://res.cloudinary.com/dqhyudo4x/video/upload/v1708660074/Qr_Mobile_katzdw.mp4)
+[Watch Video](https://res.cloudinary.com/dqhyudo4x/video/upload/v1708662279/QR_Scanner_-_Made_with_Clipchamp_xnmwqb.mp4)
 
 ## Installation
 
