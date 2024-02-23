@@ -1,5 +1,4 @@
 
-
 # QR Code Scanner App with OTP Login
 
 Welcome to our QR Code Scanner app built with React Native and Expo! This app allows users to log in using Firebase OTP authentication and scan QR codes to open websites within the app using a WebView.
