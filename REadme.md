@@ -12,21 +12,18 @@ Welcome to our QR Code Scanner app built with React Native and Expo! This app al
 
 ## Screenshots and Videos
 
-### Login Page
-![Login Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q1_cnt6gd.jpg)
-
-### Captcha
-![Captcha](https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q2_ap6eig.jpg)
-
-### OTP Verification
-![OTP Verification](https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659847/Q3_daipcp.jpg)
-
-### Home Page
-![Home Page 1](https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q6_g3oezh.jpg)
-![Home Page 2](https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q4_dwkwij.jpg)
-
-### Web Page
-![Web Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q5_lqjcbk.jpg)
+<table>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q1_cnt6gd.jpg" width="200" alt="Login Page"></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q2_ap6eig.jpg" width="200" alt="Captcha"></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659847/Q3_daipcp.jpg" width="200" alt="OTP Verification"></td>
+  </tr>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q6_g3oezh.jpg" width="200" alt="Home Page 1"></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q4_dwkwij.jpg" width="200" alt="Home Page 2"></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q5_lqjcbk.jpg" width="200" alt="Web Page"></td>
+  </tr>
+</table>
 
 ### Video
 [Watch Video](https://res.cloudinary.com/dqhyudo4x/video/upload/v1708660074/Qr_Mobile_katzdw.mp4)
