@@ -1,5 +1,5 @@
 
-# QR Code Scanner App with OTP Login
+# QR Code Scanner App with OTP Login By Pranjal Sharma
 
 Welcome to our QR Code Scanner app built with React Native and Expo! This app allows users to log in using Firebase OTP authentication and scan QR codes to open websites within the app using a WebView.
 
@@ -14,14 +14,14 @@ Welcome to our QR Code Scanner app built with React Native and Expo! This app al
 
 <table>
   <tr>
-    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q1_cnt6gd.jpg" width="200" alt="Login Page"></td>
-    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q2_ap6eig.jpg" width="200" alt="Captcha"></td>
-    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659847/Q3_daipcp.jpg" width="200" alt="OTP Verification"></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q1_cnt6gd.jpg" width="200" alt="Login Page"><br><p align="center">Login Page</p></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659848/Q2_ap6eig.jpg" width="200" alt="Captcha"><br><p align="center">Captcha</p></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659847/Q3_daipcp.jpg" width="200" alt="OTP Verification"><br><p align="center">OTP Verification</p></td>
   </tr>
   <tr>
-    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q6_g3oezh.jpg" width="200" alt="Home Page 1"></td>
-    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q4_dwkwij.jpg" width="200" alt="Home Page 2"></td>
-    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q5_lqjcbk.jpg" width="200" alt="Web Page"></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q6_g3oezh.jpg" width="200" alt="Home Page 1"><br><p align="center">Home Page 1</p></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q4_dwkwij.jpg" width="200" alt="Home Page 2"><br><p align="center">Home Page 2</p></td>
+    <td><img src="https://res.cloudinary.com/dqhyudo4x/image/upload/v1708659849/Q5_lqjcbk.jpg" width="200" alt="Web Page"><br><p align="center">Web Page</p></td>
   </tr>
 </table>
 
@@ -78,3 +78,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy coding! If you have any questions or need assistance, feel free to open an issue.
 ```
+
