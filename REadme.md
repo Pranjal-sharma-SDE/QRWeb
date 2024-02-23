@@ -78,4 +78,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy coding! If you have any questions or need assistance, feel free to open an issue.
 ```
-
